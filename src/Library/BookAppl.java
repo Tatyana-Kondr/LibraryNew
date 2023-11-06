@@ -15,4 +15,5 @@ public class BookAppl {
     // правка для коммита
     // update 1
     // update 2
+    // update 3
 }
